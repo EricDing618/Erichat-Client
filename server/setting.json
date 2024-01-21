@@ -1,0 +1,14 @@
+{
+    "host":"127.0.0.1",
+    "port":1145,
+    "max_user":10,
+    "name":"New Server",
+    "ext":[],
+    "icon":["default",""],
+    "opacity":1,
+    "max_size":"2MB",
+    "login_mode":true,
+    "mode":"public",
+    "encoding":"utf-8",
+    "between":5
+}
