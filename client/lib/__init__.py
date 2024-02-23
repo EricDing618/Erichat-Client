@@ -1,1 +1,0 @@
-__all__=['initwin','ipFCID','chip']
