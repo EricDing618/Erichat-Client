@@ -1,8 +1,8 @@
 # 👀Erichat Server
 
 ## ✨Erichat包括：  
-- Server服务端  
-- Client客户端  
+- [Server服务端](https://github.com/EricDing618/Erichat-Server)  
+- [Client客户端](https://github.com/EricDing618/Erichat-Client)  
 - 更新日志及帮助  
 
 ## 🤔如何使用  
